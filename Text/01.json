@@ -25,7 +25,7 @@
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL01vdmllL3R2L2xpdmUudHh0"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1RWQk9YWlkvcmF3L2JyYW5jaC9tYWluL1RWL2xpdmUudHh0"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=clan://Movie/tv/live.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://github.com/810306215/Movie/raw/main/tv/live.txt"]}]}],
 "sites":[
 
 {"key":"csp_bendi","name":"本地文件（仅能播放视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
