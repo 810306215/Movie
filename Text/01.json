@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"clan://Movie/XYQ/大米星球.json"},
+      "ext":"https://github/810306215/Movie/XYQBiu/大米星球.json"},
 {"key": "csp_xpath_tvb03","name": "蓝光TVB(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://Movie/XP/tvb03.json"},
  {
       "key": "每天看看",
